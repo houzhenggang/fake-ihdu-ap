@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="gb2312"?>
+<AppList DataVer="20101109" Page = "1">
+  <App Name="广告位招商" Desc="本广告位对外招商，18万一年。" URL="http://wifi.corpcorp.com/" Image="corp" Recommend="5" Relation="电话：028-87047398 QQ：4108863" Type="全部"></App>
+  <App Name="腾讯风铃" Desc="微官网、汽车、房产、促销自助建站。" URL="http://fl.qq.com/" Image="fl" Recommend="4" Type="汽车，房产"></App>
+  <App Name="多屏通微信管家" Desc="微网站;微支付;微订单;微商城;微优惠券;微彩票等等;结合无线wifi广告吸粉固粉加大宣传广度与黏性" URL="http://www.duopingtong.com/" Image="duopingtonglogo" Recommend="5" Type="微商城,微应用,促销手段,会员管理,行业方案,定制服务"></App>
+  <App Name="武汉微微传媒" Desc="微网站;微支付;微订单;微商城;微优惠券;微彩票等等;结合无线wifi广告吸粉固粉加大宣传广度与黏性" URL="http://www.vvcm.cn/" Image="vvcm" Recommend="5" Type="微商城,微应用,促销手段,会员管理,行业方案,定制服务" Relation="电话：13317180057 QQ：422702769"></App>
+  <App Name="深圳博一美" Desc="微官网、餐饮、房产、商城" URL="http://weixin.woxo.net/" Image="boyimei" Recommend="5" Type="餐饮、房产,汽车"></App>
+  <App Name="厦门银豹收银系统" Desc="平板，手机收银系统，免费" URL="http://www.pospal.cn/" Image="yinbaoshouyin" Recommend="5" Type="收银系统"></App>
+  <App Name="香港鑫林" Desc="平板，手机收银系统" URL="http://www.ipadpos.cn/" Image="xianggangxinlin" Recommend="3" Type="收银系统"></App>
+  <App Name="卓大师微营销wifi" Desc="专业的移动互联网、移动电商技术开发公司，微营销wifi广告页面制作、微信公众平台、微店、微站开发、手机APP应用开发。" URL="http://www.zdsapp.com/" Image="zhuodashi" Recommend="5" Type="餐饮,房产,汽车,旅游,酒店,商城,定制服务" Company="郑州卓大师软件科技有限公司"></App>
+  <App Name="河南云智讯" Desc="微官网、餐饮、旅游、商城" URL="http://www.yunzhixun.com/" Image="yunzhixun" Recommend="3" Type="餐饮,旅游"></App>
+  <App Name="广州互利达" Desc="微官网、商城、会员、餐饮、客服" URL="http://www.hudali.com/" Image="hudali" Recommend="3" Type="餐饮,酒店"></App>
+  <App Name="得力营销" Desc="微官网、汽车、餐饮、房产、带源码销售" URL="http://awx.chaojibaolishangren.com/" Image="deliyingxiao" Recommend="3" Type="餐饮,房产,汽车,定制服务"></App>
+  <App Name="微客来-成都绘凌" Desc="微官网、酒店、餐饮、商城、房产、汽车、医疗、婚纱" URL="http://www.cdhuiling.com/" Image="cdhuiling" Recommend="3" Type="餐饮,房产,汽车,旅游,酒店,商城"></App>  
+  <App Name="微在线" Desc="微官网、会员、活动、推送、服务、留言、相册、调研、房产、汽车、喜帖、医疗、酒店、餐饮、商城" URL="http://www2.cf360.cn/weizaixian/" Image="cf360" Recommend="3" Type="餐饮,房产,汽车,酒店,商城"></App>
+  <App Name="微站360" Desc="微官网、商城、会员、餐饮、酒店、婚纱、教育、医疗、健身、汽车、房产" URL="http://www.weizhan360.com/" Image="weizhan360" Recommend="3" Type="餐饮,房产,汽车,酒店,商城"></App>
+  <App Name="微5" Desc="微酒店、相册、官网、团购、餐饮、旅游、婚纱、商城" URL="http://www.we555.com/" Image="we555" Recommend="3" Type="餐饮,酒店,商城"></App> 
+  <App Name="微行天下" Desc="微官网、KTV、酒店、教育、相册、餐饮" URL="http://4009900859.com/" Image="4009900859" Recommend="3" Type="餐饮,KTV,酒店"></App>
+  <App Name="微微" Desc="微官网、餐饮、相册、团购、商城" URL="http://www.weiweiw.cn/" Image="weiweiw" Recommend="3" Type="餐饮,商城"></App>
+  <App Name="优点信息" Desc="微商城、支付、网站" URL="http://www.yodin.com/" Image="yodin" Recommend="3" Type="商城"></App>
+  <App Name="微利器" Desc="微官网、会员、活动、推送、服务、留言、相册、调研、房产、汽车、喜帖、医疗、酒店、餐饮、商城等" URL="http://www.xjweiliqi.com/" Image="xjweiliqi" Recommend="3" Type="餐饮,房产,汽车,旅游,KTV,酒店,商城"></App>
+  <App Name="微管家" Desc="微官网、会员、活动、推送、服务、留言、相册、调研、房产、汽车、喜帖、医疗、酒店、餐饮、商城等" URL="http://weixin.itokit.com/" Image="itokit" Recommend="3" Type="餐饮,房产,汽车,旅游,KTV,酒店,商城"></App>
+  <App Name="点点客微伙伴" Desc="微官网、会员、活动、推送、服务、留言、相册、调研、喜帖" URL="http://weixin.dodoca.com/main/" Image="dodoca" Recommend="3" Type="餐饮,房产,汽车,旅游,KTV,酒店,商城"></App>
+  <App Name="好哇微信营销" Desc="微官网、会员、活动、推送、服务、留言、相册、调研、房产、汽车、喜帖、医疗、酒店、餐饮、商城等" URL="http://www.haowa.com/Weiyxiao/" Image="haowa" Recommend="3" Type="餐饮,房产,汽车,旅游,酒店,商城"></App>
+  <App Name="微餐厅" Desc="微官网、餐饮" URL="http://www.weicanting.cc/" Image="weicanting" Recommend="3" Type="餐饮"></App>
+  <App Name="微销宝" Desc="微官网、会员、活动、推送、服务、留言、相册、调研、房产、汽车、喜帖、医疗、酒店、餐饮、商城等" URL="http://www.wexbao.com/" Image="wexbao" Recommend="3" Type="餐饮,房产,汽车,旅游,酒店,商城"></App>
+  <App Name="中联无线" Desc="微官网、会员、活动、推送、服务、留言、相册、调研、房产、汽车、喜帖、医疗、酒店、餐饮、商城等" URL="http://weixin.1810.com.cn/" Image="1810" Recommend="3" Type="餐饮,房产,汽车,旅游,酒店,商城"></App>
+  <App Name="微客来" Desc="微官网、会员、活动、推送、服务、留言、相册、调研、房产、汽车、喜帖、医疗、酒店、餐饮、商城等" URL="http://www.vcooline.com/spread" Image="vcooline" Recommend="3" Type="餐饮,房产,汽车,旅游,酒店,商城"></App>
+  <App Name="JiaMobi" Desc="微官网、商城、营销、会员、定制服务" URL="http://m.paidao.com/" Image="paidao" Recommend="3" Type="商城"></App>
+  <App Name="微信应用宝" Desc="微官网、会员、活动、商城、推送、服务、统计" URL="http://weixapp.com/" Image="weixapp" Recommend="3" Type="餐饮,房产,汽车,旅游,酒店,商城"></App>
+  <App Name="微呼应" Desc="微官网、会员、活动、服务、预约、相册、自定义菜单、调研、生活、团购、统计、分享、论坛、投票等" URL="http://www.weihuying.com/index.html" Image="weihuying" Recommend="3" Type="餐饮,房产,汽车,旅游,酒店,商城,KTV"></App>
+  <App Name="爱微客" Desc="微官网、客服、导航、命令" URL="http://www.iwx.so/index.php" Image="iwx" Recommend="3" Type="餐饮,酒店"></App>
+  <App Name="微沃" Desc="微官网、促销、商城、餐饮、酒店、婚庆等" URL="http://www.vwoo.cn" Image="vwoo" Recommend="3" Type="商城,餐饮,酒店"></App>
+  <App Name="微信宝" Desc="微官网、客服、会员、促销、问卷、电商" URL="http://www.wechatpen.com/" Image="wechatpen" Recommend="3" Type="商城"></App>
+  <App Name="微动力" Desc="微官网、会员、活动、推送、服务、留言、相册、调研、房产、汽车、喜帖、医疗、酒店、餐饮、商城等" URL="http://www.vdongli.com/" Image="vdongli" Recommend="3" Type="餐饮,房产,汽车,旅游,酒店,商城,KTV"></App>
+  <App Name="微官网" Desc="微官网、促销、团购、产品、预约、会员、其他" URL="http://www.sundro.net/wgw/index.php" Image="sundro" Recommend="3" Type="商城"></App>
+  <App Name="G商通" Desc="微官网、餐饮、汽车、家居、房产、美容、广告、婚庆、餐饮、娱乐" URL="http://www.u34.cn/" Image="u34" Recommend="3" Type="餐饮,房产,汽车,旅游,酒店,KTV"></App>
+  <App Name="微商桥" Desc="微官网、会员、活动、推送、服务、留言" URL="http://www.4663.com" Image="4663" Recommend="3" Type="餐饮,房产,汽车,旅游,酒店,KTV"></App>
+  <App Name="微兔吧" Desc="微官网、餐饮、相册、团购、商城" URL="http://www.weibatu.com" Image="weibatu" Recommend="3" Type="餐饮,商城,定制服务"></App>
+  <App Name="乐享" Desc="微官网、餐饮、相册、团购、商城" URL="http://www.wxapi.cn" Image="lexiang" Recommend="3" Type="餐饮,商城,房产,汽车,旅游,酒店,KTV,定制服务"></App>
+  
+</AppList>

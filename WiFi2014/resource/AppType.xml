@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="gb2312"?>
+<AppTypeList DataVer="20101109">
+  <AppType Index="0" Name="全部"  Image="quanbu1"></AppType>
+  <AppType Index="1" Name="餐饮"  Image="canyin"></AppType>
+  <AppType Index="2" Name="房产"  Image="fangchan"></AppType>
+  <AppType Index="3" Name="汽车"  Image="qiche"></AppType>
+  <AppType Index="4" Name="旅游"  Image="lvyou"></AppType>
+  <AppType Index="5" Name="KTV"   Image="ktv"></AppType>
+  <AppType Index="6" Name="酒店"  Image="jiudian"></AppType>
+  <AppType Index="7" Name="商城"  Image="shangcheng"></AppType>
+  <AppType Index="8" Name="收银系统"  Image="shouyin"></AppType>
+  <AppType Index="9" Name="定制服务"  Image="zidingyi1"></AppType>
+</AppTypeList>
